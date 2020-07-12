@@ -1,0 +1,17 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christopher_Ramos <Cramos7114@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.23.22",
+    "mailgun-js": "^0.22.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
